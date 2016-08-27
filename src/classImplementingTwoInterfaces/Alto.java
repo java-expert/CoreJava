@@ -1,4 +1,4 @@
-package ClassImplementingTwoInterfaces;
+package classImplementingTwoInterfaces;
 
 public class Alto implements CarInterface, FourWheelerInterface{
 

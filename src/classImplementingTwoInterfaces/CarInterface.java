@@ -1,4 +1,4 @@
-package ClassImplementingTwoInterfaces;
+package classImplementingTwoInterfaces;
 
 public interface CarInterface {
 	void displayEngine();

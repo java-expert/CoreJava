@@ -1,4 +1,4 @@
-package ClassImplementingTwoInterfaces;
+package classImplementingTwoInterfaces;
 
 
 public class MainClass_Impl2Interface {
