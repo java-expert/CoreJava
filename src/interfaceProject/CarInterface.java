@@ -1,6 +1,6 @@
 package interfaceProject;
 
-public interface Car {
+public interface CarInterface {
 	void displayEngine();
 
 }
