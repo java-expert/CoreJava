@@ -2,7 +2,7 @@ package exceptionHandling;
 
 public class MyException extends Exception {
 	public MyException(String s) {
-		super();
+		super(s);
 		// TODO Auto-generated constructor stub
 	}
 
