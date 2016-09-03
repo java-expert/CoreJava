@@ -1,0 +1,1 @@
+heap, stringconstant pool, stack ------------Memory allocation again
