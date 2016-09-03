@@ -18,3 +18,5 @@
 /exceptionHandling/
 /StringCreationTest.class
 /ToStringTest.class
+/StringBufferTest.class
+/StringBuilderTest.class
