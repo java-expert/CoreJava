@@ -1,10 +1,11 @@
-package innerClass;
+package innerClass.member_inner_class;
 
 public class NonStatic_MemberInnerClass {
 	
 private int a=10;
 	
 public class Inner{
+	
 	void display(){
 		System.out.println("value of a : "+a);
 	}
