@@ -24,7 +24,7 @@ public class ToStringTest {
 
 	public static void main(String[] args) {
 		ToStringTest obj=new ToStringTest();
-		obj.setName("jaggi");
+		obj.setName("abc");
 		obj.setAddress("34");
 		System.out.println(obj);
 		
