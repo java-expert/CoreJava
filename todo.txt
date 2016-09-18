@@ -5,3 +5,8 @@ heap, stringconstant pool, stack ------------Memory allocation again
 
 Two objects, one in string constant pool and other in non-pool(heap). 
 ....................................................................
+serialization with aggregation and inheritance and collections
+
+
+Questions:
+I am able to serialize static member?
