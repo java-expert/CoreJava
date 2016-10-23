@@ -1,4 +1,4 @@
-package immutable;
+package tricky;
 /* Immutable Class 
  * Final Class
  * Final variables
