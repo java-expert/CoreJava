@@ -3,10 +3,10 @@ Immutable objects are instances whose state doesn’t change after it has been ini
 The instance variable of the class is final i.e. we cannot change the value of it after creating an object.
 The class is final so we cannot create the subclass.
 There is no setter methods i.e. we have no option to change the value of the instance variable.
-
-
-
-
-
-
 ========================================================================================
+
+2. Static class
+
+1. Outer class can never be static
+2. ONLY nested classes can be static.
+3. static method cannot access not static method
